@@ -1,0 +1,6 @@
+tensorflow
+spektral
+numpy
+scipy<1.14
+scikit-learn
+matplotlib
