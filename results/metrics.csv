@@ -1,0 +1,3 @@
+model,dataset,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+mlp_baseline,cora,0.5660,0.5426,0.5810,0.5514
+
